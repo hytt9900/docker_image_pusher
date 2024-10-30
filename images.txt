@@ -1,1 +1,9 @@
 minio/minio:RELEASE.2024-10-13T13-34-11Z.fips
+apache/rocketmq:latest
+rabbitmq:4.0
+mysql:8.0.39
+mongo:8.0
+elasticsearch:8.15.2
+nginx:latest
+tomcat:9.0.96
+redis:latest
