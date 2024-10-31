@@ -1,1 +1,1 @@
-pangliang/rocketmq-console-ng
+bitnami/kafka
