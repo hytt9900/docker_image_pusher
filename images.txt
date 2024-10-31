@@ -1,1 +1,1 @@
-dushixiang/kafka-map
+mobz/elasticsearch-head:5-alpine
