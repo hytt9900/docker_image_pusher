@@ -1,1 +1,1 @@
-zookeeper:latest
+dushixiang/kafka-map
