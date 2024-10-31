@@ -7,3 +7,5 @@ elasticsearch:8.15.2
 nginx:latest
 tomcat:9.0.96
 redis:latest
+kubernetes/pause
+pangliang/rocketmq-console-ng
