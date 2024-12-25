@@ -1,1 +1,1 @@
-docker pull openjdk:8
+openjdk:8
