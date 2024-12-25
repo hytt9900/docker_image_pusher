@@ -1,1 +1,1 @@
-docker/compose
+docker pull openjdk:8
