@@ -1,1 +1,1 @@
-openjdk:8u342-jre
+openjdk@sha256-46a298905a037f46e5bc93aae3b061e0e148beab5098e6d0c26d5e7981ac36e3
